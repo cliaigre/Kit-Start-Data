@@ -1,4 +1,4 @@
-# INFMDI721
+# Kit Start Data - INFMDI721
 ![Télécom Paris Mastères Spécialisés®](./index.png)
 
 #### Mastère Spécialisé® Big Data : gestion et analyse des données massives
