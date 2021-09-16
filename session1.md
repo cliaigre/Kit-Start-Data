@@ -49,6 +49,7 @@
 - Utiliser git et github : doc https://git-scm.com/doc cheat sheet https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf vidéo git https://www.youtube.com/watch?v=USjZcfj8yxE vidéo github https://www.youtube.com/watch?v=nhNq2kIvi9s
 - Utiliser Jupyter vidéo https://www.youtube.com/watch?v=3C9E2yPBw7s
 - Utiliser un environnement Python avec virtualenv https://python-guide-pt-br.readthedocs.io/fr/latest/dev/virtualenvs.html  ou conda (pour Anaconda) https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+- **Magic Quadrant** for Data Science and Machine Learning Platforms 2021 du Gartner : https://content.dataiku.com/gartner-mq-2021
 
 **Prévisionnel session 2**
 
