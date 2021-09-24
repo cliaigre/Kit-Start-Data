@@ -21,8 +21,9 @@ La colonne "geo_shape" comporte des chaines de catactères au format  JSON. Elle
 - Donner le décompte des longueurs des listes accédées avec la clé "coordinates".
 - Quelle commune est la plus complexe géométriquement ?
 - Quelle commune est la seconde la plus complexe géométriquement ?
-- Quelles sont les villes qui sont de type "Polygon" mais dont la longueur des listes accédées avec la clé "coordinates" vaut 2 ?
-- Pour ces villes vérifier que le premier polygone contient bien le  second (enclave). NB : installer la librairie shapely, utiliser la  classe Polygon de shapely.geometry. Sur Windows shapely peut nécessiter  d'installer la dll "geos_c.dll" dans le répertoire "Library/bin" de  votre environnement Python.
+- Facultatif
+  - Quelles sont les villes qui sont de type "Polygon" mais dont la longueur des listes accédées avec la clé "coordinates" vaut 2 ?
+  - Pour ces villes vérifier que le premier polygone contient bien le  second (enclave). NB : installer la librairie shapely, utiliser la  classe Polygon de shapely.geometry. Sur Windows shapely peut nécessiter  d'installer la dll "geos_c.dll" dans le répertoire "Library/bin" de  votre environnement Python.
 
 **Utilisation d'environnements virtuels** :
 
