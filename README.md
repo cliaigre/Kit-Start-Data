@@ -17,3 +17,7 @@ Plan prévisionnel des sessions
 - **Session 6** : Séries temporelles et visualisation (20/10)
 - **Projet final** : Du 21 au 31 octobre, sujet à définir
 
+
+
+[Ressources](links.md)
+
