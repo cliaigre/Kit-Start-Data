@@ -31,4 +31,5 @@
 - [**Blog**: The Observable Blog](https://observablehq.com/blog)
 - [**Blog**: Real Python Tutorials](https://realpython.com/)
 - [**Blog**: Towards Data Science](https://towardsdatascience.com/)
+- [**Plateforme** Kaggle](https://www.kaggle.com/)
 

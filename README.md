@@ -14,7 +14,7 @@ Plan prévisionnel des sessions
 - **Session 3** : Traitement des données avec Pandas (30/09) [[plan](session3.md)]
 - **Session 4** : Parsing XML, Web scraping et API (7/10) [[plan](session4.md)]
 - **Session 5** : Manipulation de données avancées (13/10) [[plan](session5.md)]
-- **Session 6** : Séries temporelles et visualisation (20/10)
+- **Session 6** : Séries temporelles et visualisation (20/10) [[plan](session6.md)]
 - **Projet final** : Du 21 au 31 octobre, sujet à définir
 
 
