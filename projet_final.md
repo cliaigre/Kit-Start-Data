@@ -43,6 +43,7 @@ Les questions et réponses seront publiées ci-après au fil de l'eau :
 
 1. Qu'est-ce qu'un *foil* ? https://www.vendeeglobe.org/fr/actualites/19755/quels-foils-pour-gagner-le-vendee-globe La présence d'un *foil* est indiqué dans l'attribut "Nombre de dérives" dans les fiches techniques des voiliers.
 2. S'agit-il d'un travail individuel ou collectif ? Il s'agit bien d'un travail individuel.
+3. Est-il possible de rendre plusieurs notebooks afin de délimiter clairement les différentes étapes du projet ? Tout peut tenir dans un seul notebook mais pourquoi pas.
 
 **Avertissement**
 
