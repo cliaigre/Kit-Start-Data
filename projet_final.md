@@ -47,6 +47,18 @@ Les questions et réponses seront publiées ci-après au fil de l'eau :
 4. Y a-t-il une norme pour le code ? Vous pouvez regarder la [PEP8](https://www.python.org/dev/peps/pep-0008/) (voir [Naming Conventions](https://www.python.org/dev/peps/pep-0008/#toc-entry-21) pour les noms de variables et de fonctions)  mais le projet n'est particulièrement noté sur ce point.
 5. Faut-il créer un unique DataFrame mettant à chaque classement d'afficher les caractéristiques des voiliers ou bien peut-on gérer les 2 types de données indépendamment ? C'est à vous de voir en fonction des analyses que vous voulez produire.
 6. Peut-on produire des graphiques supplémentaires à ceux proposés ? Oui, vous avez toute latitude pour produire les analyses de votre choix à partir des données.
+7. Comment peut-on télécharger les fichier Excel pour ensuite les lire avec `pandas`? Voir ci-dessous :
+
+`from urllib import request`
+
+`import shutil`
+
+`url = 'URL du fichier Excel à télécharger'`
+
+`filename = 'exemple.xlsx'`
+
+`with request.urlopen(url) as response, open(filename, 'wb') as out_file:`
+    `shutil.copyfileobj(response, out_file)`
 
 **Avertissement**
 
