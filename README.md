@@ -15,7 +15,7 @@ Plan des sessions
 - **Session 4** : Parsing XML, Web scraping et API (7/10) [[plan](session4.md)]
 - **Session 5** : Manipulation de données avancées (13/10) [[plan](session5.md)]
 - **Session 6** : Séries temporelles et visualisation (20/10) [[plan](session6.md)]
-- **Projet final** : Du 26 octobre au 5 novembre [[sujet](projet_final.md)]
+- **Projet final** : Du 26 octobre au 7 novembre [[sujet](projet_final.md)]
 
 
 

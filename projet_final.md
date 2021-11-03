@@ -1,7 +1,7 @@
 # Projet final du Kit Data Science 2021
 Le projet final du Kit Data Science 2021 porte sur les données du **Vendée Globe 2020-2021**.
 
-Le projet se déroule **26 octobre au 5 novembre 2021** date limite pour rendre vos projets respectifs.
+Le projet se déroule **26 octobre au 7 novembre 2021** date limite pour rendre vos projets respectifs.
 
 Les données du dernier Vendée Globe sont disponibles sous la forme de fichiers Excel avec les classements fournis plusieurs fois par jour par les organisateurs de la course. Il y a également une page web avec une fiche technique par voilier qui contient des informations techniques et qu'il est possible de rapprocher des classements.
 
@@ -44,10 +44,13 @@ Les questions et réponses seront publiées ci-après au fil de l'eau :
 1. Qu'est-ce qu'un *foil* ? https://www.vendeeglobe.org/fr/actualites/19755/quels-foils-pour-gagner-le-vendee-globe La présence d'un *foil* est indiqué dans l'attribut "Nombre de dérives" dans les fiches techniques des voiliers.
 2. S'agit-il d'un travail individuel ou collectif ? Il s'agit bien d'un travail individuel.
 3. Est-il possible de rendre plusieurs notebooks afin de délimiter clairement les différentes étapes du projet ? Tout peut tenir dans un seul notebook mais pourquoi pas.
+4. Y a-t-il une norme pour le code ? Vous pouvez regarder la [PEP8](https://www.python.org/dev/peps/pep-0008/) (voir [Naming Conventions](https://www.python.org/dev/peps/pep-0008/#toc-entry-21) pour les noms de variables et de fonctions)  mais le projet n'est particulièrement noté sur ce point.
+5. Faut-il créer un unique DataFrame mettant à chaque classement d'afficher les caractéristiques des voiliers ou bien peut-on gérer les 2 types de données indépendamment ? C'est à vous de voir en fonction des analyses que vous voulez produire.
+6. Peut-on produire des graphiques supplémentaires à ceux proposés ? Oui, vous avez toute latitude pour produire les analyses de votre choix à partir des données.
 
 **Avertissement**
 
-Vous devez publier votre **notebook exécuté aux formats ipynb et HTML** sur votre github **avant le vendredi 5 novembre 2021 à 23h59** et lorsque c'est fait **envoyer une notification par email avec le lien du projet** à l'adresse `contact(at)yotta-conseil.fr`
+Vous devez publier votre **notebook exécuté aux formats ipynb et HTML** sur votre github **avant le dimanche 7 novembre 2021 à 23h59** et lorsque c'est fait **envoyer une notification par email avec le lien du projet** à l'adresse `contact(at)yotta-conseil.fr`
 
 ### Bon projet !
 
